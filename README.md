@@ -20,8 +20,8 @@ Reusing a pretrained model is a technique known as transfer learning.
 It is so effective, that almost every image classifier these days will make use of it.
 ## Results
 Below we examine the loss and metric plots.
-![png](result1.png)
-![png](result2.png)
+![png](results1.png)
+![png](results2.png)
 ## Conclusion
 The basic idea behind convolutional classifiers is that we can attach a unit that performs feature engineering to the classifier itself.
 This is one of the big advantages deep neural networks have over traditional machine learning models: 
