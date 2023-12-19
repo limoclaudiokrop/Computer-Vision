@@ -18,3 +18,6 @@ In other words, we reuse the part of a network that has already learned to do
 Because the head usually consists of only a few dense layers, very accurate classifiers can be created from relatively little data.
 Reusing a pretrained model is a technique known as transfer learning. 
 It is so effective, that almost every image classifier these days will make use of it.
+## Results
+Below we examine the loss and metric plots.
+
